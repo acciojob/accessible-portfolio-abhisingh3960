@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+img{
+	width:100%;	
+}
+
+h1{
+	text-align:center;
+	justify-content:center;
+}
+ul{
+	justify-content:center;
+}
+nav{
+	text-decoration:none;
+	
+}
